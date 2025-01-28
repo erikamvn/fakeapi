@@ -1,6 +1,7 @@
 {
-    "products": [
-        {
+  "products": [
+    {
+      "id": 1,
       "name": "Montanha Nevadas",
       "category": "Montanha",
       "price": 22.52,
@@ -8,6 +9,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=1"
     },
     {
+      "id": 2,
       "name": "Praia Tropicana",
       "category": "Praia",
       "price": 69.2,
@@ -15,6 +17,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=2"
     },
     {
+      "id": 3,
       "name": "Floresta Encantada",
       "category": "Floresta",
       "price": 334.88,
@@ -22,6 +25,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=3"
     },
     {
+      "id": 4,
       "name": "Deserto Dourado",
       "category": "Deserto",
       "price": 192.09,
@@ -29,6 +33,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=4"
     },
     {
+      "id": 5,
       "name": "Campos de Lavanda",
       "category": "Campos",
       "price": 46.05,
@@ -36,6 +41,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=5"
     },
     {
+      "id": 6,
       "name": "Cachoeira Azul",
       "category": "Cachoeira",
       "price": 59.99,
@@ -43,6 +49,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=6"
     },
     {
+      "id": 7,
       "name": "Praia do Caribe",
       "category": "Praia",
       "price": 99.99,
@@ -50,6 +57,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=7"
     },
     {
+      "id": 8,
       "name": "Montanha Verdejante",
       "category": "Montanha",
       "price": 72.48,
@@ -57,6 +65,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=8"
     },
     {
+      "id": 9,
       "name": "Floresta Tropical",
       "category": "Floresta",
       "price": 115.30,
@@ -64,6 +73,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=9"
     },
     {
+      "id": 10,
       "name": "Vale Encantado",
       "category": "Montanha",
       "price": 85.90,
@@ -71,6 +81,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=10"
     },
     {
+      "id": 11,
       "name": "Pôr do Sol no Deserto",
       "category": "Deserto",
       "price": 129.80,
@@ -78,6 +89,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=11"
     },
     {
+      "id": 12,
       "name": "Lago Sereno",
       "category": "Lago",
       "price": 210.50,
@@ -85,6 +97,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=12"
     },
     {
+      "id": 13,
       "name": "Cachoeira do Paraíso",
       "category": "Cachoeira",
       "price": 145.60,
@@ -92,6 +105,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=13"
     },
     {
+      "id": 14,
       "name": "Campo de Trigo",
       "category": "Campos",
       "price": 52.70,
@@ -99,6 +113,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=14"
     },
     {
+      "id": 15,
       "name": "Pico de Neve",
       "category": "Montanha",
       "price": 203.45,
@@ -106,6 +121,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=15"
     },
     {
+      "id": 16,
       "name": "Dunas do Saara",
       "category": "Deserto",
       "price": 80.80,
@@ -113,6 +129,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=16"
     },
     {
+      "id": 17,
       "name": "Praia Selvagem",
       "category": "Praia",
       "price": 185.00,
@@ -120,6 +137,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=17"
     },
     {
+      "id": 18,
       "name": "Vale dos Lagos",
       "category": "Montanha",
       "price": 125.40,
@@ -127,6 +145,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=18"
     },
     {
+      "id": 19,
       "name": "Trilha na Floresta",
       "category": "Floresta",
       "price": 99.99,
@@ -134,6 +153,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=19"
     },
     {
+      "id": 20,
       "name": "Alpes Suíços",
       "category": "Montanha",
       "price": 245.99,
@@ -141,6 +161,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=20"
     },
     {
+      "id": 21,
       "name": "Oasis no Deserto",
       "category": "Deserto",
       "price": 182.50,
@@ -148,6 +169,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=21"
     },
     {
+      "id": 22,
       "name": "Floresta Sombria",
       "category": "Floresta",
       "price": 95.30,
@@ -155,6 +177,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=22"
     },
     {
+      "id": 23,
       "name": "Campo de Flores",
       "category": "Campos",
       "price": 40.99,
@@ -162,6 +185,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=23"
     },
     {
+      "id": 24,
       "name": "Lago Cristalino",
       "category": "Lago",
       "price": 300.00,
@@ -169,6 +193,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=24"
     },
     {
+      "id": 25,
       "name": "Praia do Sol",
       "category": "Praia",
       "price": 140.60,
@@ -176,6 +201,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=25"
     },
     {
+      "id": 26,
       "name": "Cânion Profundo",
       "category": "Montanha",
       "price": 198.20,
@@ -183,6 +209,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=26"
     },
     {
+      "id": 27,
       "name": "Reflexo na Água",
       "category": "Lago",
       "price": 130.45,
@@ -190,6 +217,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=27"
     },
     {
+      "id": 28,
       "name": "Vento na Praia",
       "category": "Praia",
       "price": 68.99,
@@ -197,6 +225,7 @@
       "imageUrl": "https://picsum.photos/200/200?random=28"
     },
     {
+      "id": 29,
       "name": "Cores do Campo",
       "category": "Campos",
       "price": 75.90,
@@ -204,11 +233,12 @@
       "imageUrl": "https://picsum.photos/200/200?random=29"
     },
     {
+      "id": 30,
       "name": "Cachoeira Selvagem",
       "category": "Cachoeira",
       "price": 99.00,
       "description": "Cachoeira no meio da floresta tropical.",
       "imageUrl": "https://picsum.photos/200/200?random=30"
     }
-    ]
+  ]
 }
