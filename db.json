@@ -14,7 +14,7 @@
             "category": "Categoria C",
             "price": 69.2,
             "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
+            "imageUrl": "https://picsum.photos/200/200?random=2"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "category": "Categoria C",
             "price": 334.88,
             "description": "Desempenho superior para quem precisa de tecnologia avançada.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
+            "imageUrl": "https://picsum.photos/200/200?random=3"
         },
         {
             "id": 4,
