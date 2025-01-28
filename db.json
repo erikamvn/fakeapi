@@ -1,244 +1,214 @@
 {
     "products": [
         {
-            "id": 1,
-            "name": "TwTetyroVr",
-            "category": "Categoria C",
-            "price": 22.52,
-            "description": "A escolha perfeita para quem busca conforto e estilo.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 2,
-            "name": "CbPYJkgUPk",
-            "category": "Categoria C",
-            "price": 69.2,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=2"
-        },
-        {
-            "id": 3,
-            "name": "SGlNGkEpcB",
-            "category": "Categoria C",
-            "price": 334.88,
-            "description": "Desempenho superior para quem precisa de tecnologia avançada.",
-            "imageUrl": "https://picsum.photos/200/200?random=3"
-        },
-        {
-            "id": 4,
-            "name": "uxhLhHUzvi",
-            "category": "Categoria D",
-            "price": 192.09,
-            "description": "Aumente sua produtividade com este produto inovador.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 5,
-            "name": "oraxcZIxOw",
-            "category": "Categoria A",
-            "price": 46.05,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 6,
-            "name": "LXqXwBVaTf",
-            "category": "Categoria B",
-            "price": 143.71,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 7,
-            "name": "vmxLeiUJCW",
-            "category": "Categoria C",
-            "price": 339.56,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 8,
-            "name": "YdfGhbUBmN",
-            "category": "Categoria D",
-            "price": 400.97,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 9,
-            "name": "WfEnUkmbJw",
-            "category": "Categoria E",
-            "price": 212.48,
-            "description": "Aumente sua produtividade com este produto inovador.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 10,
-            "name": "RbHaQsmMSb",
-            "category": "Categoria A",
-            "price": 52.88,
-            "description": "A escolha perfeita para quem busca conforto e estilo.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 11,
-            "name": "OatYgbjBfQ",
-            "category": "Categoria C",
-            "price": 156.34,
-            "description": "Aumente sua produtividade com este produto inovador.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 12,
-            "name": "mWnDyoVlxK",
-            "category": "Categoria E",
-            "price": 321.65,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 13,
-            "name": "kHKCdYHXVs",
-            "category": "Categoria B",
-            "price": 122.94,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 14,
-            "name": "vPvHzFSfqg",
-            "category": "Categoria A",
-            "price": 50.12,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 15,
-            "name": "bMHcFJdbDq",
-            "category": "Categoria C",
-            "price": 37.25,
-            "description": "Desempenho superior para quem precisa de tecnologia avançada.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 16,
-            "name": "AxQuHBsWcS",
-            "category": "Categoria D",
-            "price": 299.42,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 17,
-            "name": "oWWXzPIpYe",
-            "category": "Categoria B",
-            "price": 188.16,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 18,
-            "name": "tPyhbHjTQp",
-            "category": "Categoria A",
-            "price": 277.43,
-            "description": "A escolha perfeita para quem busca conforto e estilo.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 19,
-            "name": "AyxHiDqLqz",
-            "category": "Categoria E",
-            "price": 47.62,
-            "description": "Aumente sua produtividade com este produto inovador.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 20,
-            "name": "mTeMuLsZFb",
-            "category": "Categoria C",
-            "price": 155.71,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 21,
-            "name": "SuQjUhMmKv",
-            "category": "Categoria B",
-            "price": 78.61,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 22,
-            "name": "FgSoBwHgSk",
-            "category": "Categoria D",
-            "price": 293.4,
-            "description": "Desempenho superior para quem precisa de tecnologia avançada.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 23,
-            "name": "pXxaTxBuMz",
-            "category": "Categoria C",
-            "price": 130.99,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 24,
-            "name": "hWhKaGfZjD",
-            "category": "Categoria B",
-            "price": 256.23,
-            "description": "Design moderno e funcional para qualquer ambiente.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 25,
-            "name": "WXaaARaYfy",
-            "category": "Categoria E",
-            "price": 26.55,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 26,
-            "name": "SvbGtwyjeT",
-            "category": "Categoria B",
-            "price": 359.43,
-            "description": "Produto de alta qualidade, ideal para o seu dia a dia.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 27,
-            "name": "MPWEcDfWYT",
-            "category": "Categoria E",
-            "price": 189.04,
-            "description": "A escolha perfeita para quem busca conforto e estilo.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 28,
-            "name": "lHiHpyJpKv",
-            "category": "Categoria A",
-            "price": 134.78,
-            "description": "Aumente sua produtividade com este produto inovador.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 29,
-            "name": "lNqAFbNlAk",
-            "category": "Categoria C",
-            "price": 426.04,
-            "description": "Desempenho superior para quem precisa de tecnologia avançada.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        },
-        {
-            "id": 30,
-            "name": "jRUemTwXhQ",
-            "category": "Categoria D",
-            "price": 117.59,
-            "description": "A escolha perfeita para quem busca conforto e estilo.",
-            "imageUrl": "https://picsum.photos/200/200?random=1"
-        }
+      "name": "Montanha Nevadas",
+      "category": "Montanha",
+      "price": 22.52,
+      "description": "Vista deslumbrante dos picos nevados.",
+      "imageUrl": "https://picsum.photos/200/200?random=1"
+    },
+    {
+      "name": "Praia Tropicana",
+      "category": "Praia",
+      "price": 69.2,
+      "description": "Areias brancas e águas cristalinas.",
+      "imageUrl": "https://picsum.photos/200/200?random=2"
+    },
+    {
+      "name": "Floresta Encantada",
+      "category": "Floresta",
+      "price": 334.88,
+      "description": "Floresta densa com raios de sol filtrando pelas árvores.",
+      "imageUrl": "https://picsum.photos/200/200?random=3"
+    },
+    {
+      "name": "Deserto Dourado",
+      "category": "Deserto",
+      "price": 192.09,
+      "description": "Dunas douradas do deserto ao pôr do sol.",
+      "imageUrl": "https://picsum.photos/200/200?random=4"
+    },
+    {
+      "name": "Campos de Lavanda",
+      "category": "Campos",
+      "price": 46.05,
+      "description": "Campos roxos de lavanda se estendendo ao horizonte.",
+      "imageUrl": "https://picsum.photos/200/200?random=5"
+    },
+    {
+      "name": "Cachoeira Azul",
+      "category": "Cachoeira",
+      "price": 59.99,
+      "description": "Cachoeira com águas cristalinas e paisagem exuberante.",
+      "imageUrl": "https://picsum.photos/200/200?random=6"
+    },
+    {
+      "name": "Praia do Caribe",
+      "category": "Praia",
+      "price": 99.99,
+      "description": "Águas azul-turquesa e coqueiros à beira-mar.",
+      "imageUrl": "https://picsum.photos/200/200?random=7"
+    },
+    {
+      "name": "Montanha Verdejante",
+      "category": "Montanha",
+      "price": 72.48,
+      "description": "Montanhas cobertas de verde com nuvens baixas.",
+      "imageUrl": "https://picsum.photos/200/200?random=8"
+    },
+    {
+      "name": "Floresta Tropical",
+      "category": "Floresta",
+      "price": 115.30,
+      "description": "Floresta rica em biodiversidade e vida selvagem.",
+      "imageUrl": "https://picsum.photos/200/200?random=9"
+    },
+    {
+      "name": "Vale Encantado",
+      "category": "Montanha",
+      "price": 85.90,
+      "description": "Vale verde rodeado por montanhas imponentes.",
+      "imageUrl": "https://picsum.photos/200/200?random=10"
+    },
+    {
+      "name": "Pôr do Sol no Deserto",
+      "category": "Deserto",
+      "price": 129.80,
+      "description": "O pôr do sol refletido nas dunas do Saara.",
+      "imageUrl": "https://picsum.photos/200/200?random=11"
+    },
+    {
+      "name": "Lago Sereno",
+      "category": "Lago",
+      "price": 210.50,
+      "description": "Lago calmo rodeado por montanhas ao longe.",
+      "imageUrl": "https://picsum.photos/200/200?random=12"
+    },
+    {
+      "name": "Cachoeira do Paraíso",
+      "category": "Cachoeira",
+      "price": 145.60,
+      "description": "Cachoeira escondida em uma área de difícil acesso.",
+      "imageUrl": "https://picsum.photos/200/200?random=13"
+    },
+    {
+      "name": "Campo de Trigo",
+      "category": "Campos",
+      "price": 52.70,
+      "description": "Campo de trigo dourado sob um céu limpo.",
+      "imageUrl": "https://picsum.photos/200/200?random=14"
+    },
+    {
+      "name": "Pico de Neve",
+      "category": "Montanha",
+      "price": 203.45,
+      "description": "Pico coberto de neve com céu claro.",
+      "imageUrl": "https://picsum.photos/200/200?random=15"
+    },
+    {
+      "name": "Dunas do Saara",
+      "category": "Deserto",
+      "price": 80.80,
+      "description": "Dunas longas e douradas com céu aberto.",
+      "imageUrl": "https://picsum.photos/200/200?random=16"
+    },
+    {
+      "name": "Praia Selvagem",
+      "category": "Praia",
+      "price": 185.00,
+      "description": "Praia isolada com pedras e águas transparentes.",
+      "imageUrl": "https://picsum.photos/200/200?random=17"
+    },
+    {
+      "name": "Vale dos Lagos",
+      "category": "Montanha",
+      "price": 125.40,
+      "description": "Vários lagos cristalinos entre montanhas verdes.",
+      "imageUrl": "https://picsum.photos/200/200?random=18"
+    },
+    {
+      "name": "Trilha na Floresta",
+      "category": "Floresta",
+      "price": 99.99,
+      "description": "Trilha em uma floresta densa com árvores altas.",
+      "imageUrl": "https://picsum.photos/200/200?random=19"
+    },
+    {
+      "name": "Alpes Suíços",
+      "category": "Montanha",
+      "price": 245.99,
+      "description": "Paisagem alpina com neve nas montanhas.",
+      "imageUrl": "https://picsum.photos/200/200?random=20"
+    },
+    {
+      "name": "Oasis no Deserto",
+      "category": "Deserto",
+      "price": 182.50,
+      "description": "Oasis verdejante em meio às dunas do deserto.",
+      "imageUrl": "https://picsum.photos/200/200?random=21"
+    },
+    {
+      "name": "Floresta Sombria",
+      "category": "Floresta",
+      "price": 95.30,
+      "description": "Floresta densa com pouca luz natural.",
+      "imageUrl": "https://picsum.photos/200/200?random=22"
+    },
+    {
+      "name": "Campo de Flores",
+      "category": "Campos",
+      "price": 40.99,
+      "description": "Campo coberto de flores coloridas e vibrantes.",
+      "imageUrl": "https://picsum.photos/200/200?random=23"
+    },
+    {
+      "name": "Lago Cristalino",
+      "category": "Lago",
+      "price": 300.00,
+      "description": "Lago com águas tão claras que parece um espelho.",
+      "imageUrl": "https://picsum.photos/200/200?random=24"
+    },
+    {
+      "name": "Praia do Sol",
+      "category": "Praia",
+      "price": 140.60,
+      "description": "Praia com céu azul e sol brilhante.",
+      "imageUrl": "https://picsum.photos/200/200?random=25"
+    },
+    {
+      "name": "Cânion Profundo",
+      "category": "Montanha",
+      "price": 198.20,
+      "description": "Cânion imenso e profundo com rochas vermelhas.",
+      "imageUrl": "https://picsum.photos/200/200?random=26"
+    },
+    {
+      "name": "Reflexo na Água",
+      "category": "Lago",
+      "price": 130.45,
+      "description": "Reflexo das montanhas na superfície calma do lago.",
+      "imageUrl": "https://picsum.photos/200/200?random=27"
+    },
+    {
+      "name": "Vento na Praia",
+      "category": "Praia",
+      "price": 68.99,
+      "description": "A brisa suave tocando a areia na praia.",
+      "imageUrl": "https://picsum.photos/200/200?random=28"
+    },
+    {
+      "name": "Cores do Campo",
+      "category": "Campos",
+      "price": 75.90,
+      "description": "Campos verdes sob um céu limpo e azul.",
+      "imageUrl": "https://picsum.photos/200/200?random=29"
+    },
+    {
+      "name": "Cachoeira Selvagem",
+      "category": "Cachoeira",
+      "price": 99.00,
+      "description": "Cachoeira no meio da floresta tropical.",
+      "imageUrl": "https://picsum.photos/200/200?random=30"
+    }
     ]
 }
